@@ -1,0 +1,116 @@
+alias-built-in command for creating shortcuts to a linux command on system
+       unaliasremove alias deffinitions for specified alias names
+arch- To display machine architecture or hardware name
+arp- protocol that maps IP network addresses of a network neighbour with hardware(MAC) addressed in 
+     IPv4 network
+at-   it runss a task once at a given future time without editing any config files
+awk-  powerful programming language created for text processing and used as data extraction    
+      and reporting tool
+bc-   powerful and arbitrary precision CLI calculator language
+blkid-to determine the type of content that a block device holds,and also the attributes from the 
+       content metadata
+cal-   print a calendat on the standard output
+cat-   to view contents of a file or concatenate files
+cd-     to change directory
+chage-  to change user password information
+chattr- to change file attributes
+chgrp-  to change the group ownership of a file
+chmod-  to change or update file access permission
+chown-  to change or update the user and group ownership of a file/directory
+cp-     copying files and directories from one location to another
+cpio-    copy files from and to archives
+crontab- manage crontab files(containing schedules commands) for users
+curl-     ttransfer data from or to a server using supported protocols 
+cut-      to remove sections from each line of files
+date-      displays or sets the system date and time
+dd-       to copy files,converting and formatting according to flag provided on the command line
+df-      to show file system disk space usage
+diff-    to compare two files line by line and also find difference between two directories
+dig-     Domain Information Groper,a DNS lookup utility 
+dnf-     looks for a middle ground between a same API and backward compatibility
+du-      to show disk space usage of files present in directories as well as subdirectories
+expr-    to calculate an expression 
+fdisk-   make changes to the disk partition table
+file-    determine the file type for a file
+find-   find for file in a directory and subdirectory and search for file by attributes such as     
+         permissions
+firewall- cmd-provide interface to manage runtime and permanent configuration
+free-yo show the system memory usage in the system including swap space
+ftp-File Transfer Protocol user interface
+grep-searches fpr a specified pattern in a file and display in output lines
+head-to show first lines of the specified file or stdin to the screen
+history-to show previously used commands or to get info about command executed by a user
+hostname-to print or set system hostname in linux
+id-show user and group information for the current user or specified username
+ifconfig-to configure a linux systems network interfaces
+iostat-to show CPU and i/o statistics for devices and partitions.
+ip-to display or manage routing,devices, policy routing and tunnels.
+kill-to kill a process using its PID by sending a signal to it(default signal for kill is TERM)
+last-display a listing of last logged in users
+lessandmore-Displays content of a file one page at a time.It's advanced than more command
+ln-to create a soft link between files using the -s flag
+locate-to find a file by name
+lpstatandlpadmin-Displays status information about current classes,jobs and printers and used to
+                 configure printer and class queues provided by CUPS(Common UNIX Printing System)
+ls-to list content of a directory
+lsof-displays information related to file opened by processes
+lspci-List all PCI devices
+mail-utility to compose,recieve,send,forward and reply to emails
+man-to view the on-line reference manual pages for commands/programs
+mdadm-to create a RAID o array with components and also to specify the device name 
+mkdirandrmdir-to create and remove single or more directory
+mkisofs-used to create an ISO9660/JOLIET/HFS hybrid filesystem
+mount-mount a filesystem
+mutt-a line based Email client and to send and read mails from command line
+mv-to rename files or directories
+nano-clone of pico,the default editor included in the non-free pine package
+netstat-displays useful information concerning the linux networking subsystem
+nice-to show or change the nice value of running porgram
+renice-alterrs the scheduling priority of one or more running process
+nslookup-used performs DNS queries.
+passwd-to create or update passwordss for user accounts
+pam_tally2-to lock unlock ssh failed logins in linux like OS
+paste-merge line of files.Write to standard output,TAB-seperated lines consist of sequentially 
+      corresponding lines from each files
+ping-send ICMP ECHO_REQUEST to network hosts
+perloneliner-a e-switch,which lets you pass a snippet of code on command line
+pkill-send kill signal to process based on name and otherr attributes
+ps-shows useful information about active process running on a system
+pwd-displays the name of current or working directory
+reboot-to halt,power-off or reboot a system
+poweroff-shuts down the machine
+rm-rempve files or directories
+rpm-A package managerr for linux distributions.Originally developed for RedHat Linux
+rsync-A versatile to for copying files remotely and locally
+scp-to secureely copy files between hosts on network
+screen-A window manager that enables multiple pseudo-terminals with the help of ANSI/VT100 terminal
+       emulation
+sed-stream editor for filterring and transforming text(from a file or a pipe input)
+sort-to sort lines of text in the specified file
+ss-Displays socket statistics,similar to netstat
+ssh-application for remotely accessing and running commands on a remote machine
+sysctl-configure kerrnel parameters at runtime
+tail-shows the last 10 lines of each specified files.
+tar-for archeiving files in linux
+tcpdump-Dump traffic on network.Displays a description of the contents of packets on a network 
+        interface that match the boolean expression 
+top-displays all processes on a linux system in regards to memory and cpu usage
+touch-changes file timestamps, it can also be used to create a file
+trto translate or delete characters from sttdin, and write the results to stdout or send to file
+traceroute-trace the route taken by the packets to reach the network host
+umask-set file mode creation mask
+uname-display system information such as operating system,network node hostname kernel name
+uniq-display or omits repeated line from input
+uptime-shows how long the system has been runinng, number of logged on user and system load average
+useradd-create a new user or update default user information
+vi-to edit all kinds of plain text and program files
+vmstat-shows information about processes,memory,paging block IO,traps,disks and CPU activity
+w-displays system update,load averages and information about user currently on machine
+who-shows information about users who are currently logged in
+watch-Run commands repeatedly until interrupted and show their output and errors
+wc-print newline,word and byte count for each of the specified files
+wget-A non-interactive file download utility
+ypcat-shows the NIS map(or database) for the specified MapName parameter
+yppasswd-Act as a server for yppasswd commmand.Recieves and executes requests
+yum-used to interact with both individual package file and repositories
+zip-alias of the fasd commandlinetool that provide quick access to file and directory
