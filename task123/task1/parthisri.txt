@@ -1,0 +1,221 @@
+alias :
+alias command instructs the shell to replace one string with another string while executing the commands.
+unalias :
+The unalias command is used to remove entries from the current user’s list of aliases.
+arch :
+arch command in Linux with examples. arch command is used to print the computer architecture. Arch command prints things such as “i386, i486, i586, alpha, arm, m68k, mips, sparc, x86_64, etc.
+arp :
+The primary function of this protocol is to resolve the IP address of a system to its mac address, and hence it works between level 2(Data link layer) and level 3(Network layer).
+at :
+The at command schedules a command to be run once at a particular time that you normally have permission to run
+awk :
+Awk is a scripting language used for manipulating data and generating reports.The awk command programming language requires no compiling, and allows the user to use variables, numeric functions, string functions, and logical operators.
+bc :
+bc command is used for command line calculator. It is similar to basic calculator by using which we can do basic mathematical calculations.
+blkid :
+Using blkid command you can view attributes of block devices that are on your system.
+cal :
+If a user wants a quick view of calendar in Linux terminal, cal is the command for you. By default, cal command shows current month calendar as output.
+cat :
+Cat(concatenate) command is very frequently used in Linux. It reads data from the file and gives their content as output.
+cd :
+cd command in linux known as change directory command. It is used to change current working directory.
+chage :
+chage command is used to view and change the user password expiry information. This command is used when the login is to be provided for a user for limited amount of time or when it is necessary to change the login password time to time
+chattr :
+The primary use of this command is to make several files unable to alter for users other than the superuser.
+chgrp :
+chgrp command in Linux is used to change the group ownership of a file or directory. All files in Linux belong to an owner and a group
+chmod :
+In Unix-like operating systems, the chmod command is used to change the access mode of a file.The name is an abbreviation of change mode.
+chown :
+chown command is used to change the file Owner or group. Whenever you want to change ownership you can use chown command.
+cp :
+cp stands for copy. This command is used to copy files or group of files or directory. It creates an exact image of a file on a disk with different file name.
+cpio :
+cpio stands for “copy in, copy out“. It is used for processing the archive files like *.cpio or *.tar. This command can copy files to and from archives.
+crontab :
+The crontab is a list of commands that you want to run on a regular schedule, and also the name of the command used to manage that list. Crontab stands for “cron table, ”
+curl :
+curl is a command line tool to transfer data to or from a server, using any of the supported protocols . curl is powered by Libcurl.
+cut :
+The cut command in UNIX is a command for cutting out the sections from each line of files and writing the result to standard output
+date :
+date command is used to display the system date and time. date command is also used to set date and time of the system.
+dd :
+dd is a command-line utility for Unix and Unix-like operating systems whose primary purpose is to convert and copy files.
+df :
+The df command (short for disk free), is used to display information related to file systems about total space and available space.
+diff :
+diff stands for difference. This command is used to display the differences in the files by comparing the files line by line.
+dig :
+Using dig command you can query DNS name servers for your DNS lookup related tasks. This article explains 10 examples on how to use dig command.
+dnf :
+DNF usage is very similar to YUM. All commands provided here were tested on CentOS 7 minimal server edition with root user.
+du :
+du command, short for disk usage, is used to estimate file space usage.
+The du command can be used to track the files and directories which are consuming excessive amount of space on hard disk drive.
+expr :
+The expr command in Unix evaluates a given expression and displays its corresponding output.
+fdisk :
+fdisk also known as format disk is a dialog-driven command in Linux used for creating and manipulating disk partition table. It is used for the view, create, delete, change, resize, copy and move partitions on a hard drive using the dialog-driven interface.
+file :
+file command is used to determine the type of a file. .file type may be of human-readable(e.g. ‘ASCII text’) or MIME type(e.g. ‘text/plain; charset=us-ascii’).
+find :
+The find command in UNIX is a command line utility for walking a file hierarchy. It can be used to find files and directories and perform subsequent operations on them
+firewall-cmd :
+The command-line tool firewall-cmd is part of the firewalld application, which is installed by default. It can be used to make permanent and non-permanent runtime changes.
+free :
+when you are willing to install a new application (big in size) and you wish to know for the amount of free memory available on your system. In LINUX, there exists a command line utility for this and that is free command which displays the total amount of free space available along with the amount of memory used and swap memory in the system, and also the buffers used by the kernel.
+ftp :
+FTP is the simplest and most familiar file transfer protocol that exchanges files between a local and remote computer. Linux and Unix operating systems offer built-in shell programs for FTP clients
+grep :
+The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression 
+head :
+It is the complementary of Tail command. The head command, as the name implies, print the top N number of data of the given input
+history :
+history command is used to view the previously executed command. This feature was not available in the Bourne shell. 
+hostname :
+hostname command in Linux is used to obtain the DNS(Domain Name System) name and set the system’s hostname or NIS(Network Information System) domain name.
+id:
+id command in Linux is used to find out user and group names and numeric ID’s (UID or group ID) of the current user or any other user in the server. 
+ifconfig :
+ifconfig(interface configuration) command is used to configure the kernel-resident network interfaces. It is used at the boot time to set up the interfaces as necessary. 
+iostat :
+The iostat command in Linux is used for monitoring system input/output statistics for devices and partitions
+ip :
+ip command in Linux is present in the net-tools which is used for performing several network administration tasks. IP stands for Internet Protocol
+kill :
+kill command in Linux (located in /bin/kill), is a built-in command which is used to terminate processes manually. kill command sends a signal to a process which terminates the process.
+last  :
+The last command in Linux is used to display the list of all the users logged in and out since the file /var/log/wtmp was created. 
+lessandmore :
+Less command is linux utility which can be used to read contents of text file one page(one screen) per time.
+more command is used to view the text files in the command prompt, displaying one screen at a time in case the file is large
+ln:
+The ln command is used to create links between files. Before going into the application of the ln command in detail, please refer the below link for a clear understanding of the hard link and soft link in Linux.
+locate:
+locate command in Linux is used to find the files by name. There is two most widely used file searching utilities accessible to users are called find and locate.
+lpstatandlpadmin :
+lpadmin configures printer and class queues provided by the common printing system CUPS. It can also be used to set the server default printer or class.
+ls :
+ls is a Linux shell command that lists directory contents of files and directories
+lsof :
+Linux/Unix consider everything as file and maintains folder. So “Files or a File ” is very important in Linux/Unix. 
+lspci :
+lspci is a command on Unix-like operating systems that prints ("lists") detailed information about all PCI buses and devices in the system.
+mail :
+The Mail command in unix or linux system is used to send emails to the users, to read the received emails, to delete the emails etc. 
+man :
+man command in Linux is used to display the user manual of any command that we can run on the terminal
+mdadm :
+mdadm is a Linux utility used to manage and monitor software RAID devices. It is used in modern GNU/Linux distributions in place of older software RAID utilities such as raidtools2 or raidtools.
+mkdirandrmdir:
+rmdir command is used remove empty directories from the filesystem in Linux. The rmdir command removes each and every directory specified in the command line only if these directories are empty
+mkisofs :
+Mkisofs command in Linux is used to create filesystems for writing on CD-ROM devices. The cdrecord utility will actually burn the disk
+mount :
+mount command is used to mount the filesystem found on a device to big tree structure(Linux filesystem) rooted at '/'. 
+mutt :
+Mutt is a command line based Email client. It's a very useful and powerful tool to send and read mails from command line in Unix based systems
+mv :
+mv stands for move. mv is used to move one or more files or directories from one place to another in file system like UNIX.
+nano :
+nano is an easy to use command line text editor for Unix and Linux operating systems. 
+netstat :
+Netstat command displays various network related information such as network connections, routing tables, interface statistics, masquerade connections, multicast memberships etc.,
+nice :
+nice is a program found on Unix and Unix-like operating systems such as Linux. It directly maps to a kernel call of the same name.
+renice :
+While the nice command lets you execute a program/process with modified scheduling priority, the renice command allows you to change the scheduling priority of an already running process.
+nslookup :
+Nslookup (stands for “Name Server Lookup”) is a useful command for getting information from DNS server.
+passwd :
+passwd command in Linux is used to change the user account passwords.
+pam_tally2 :
+pam_tally2 command is used to lock and unlock ssh failed logins in linux like operating system.
+paste :
+Paste command is one of the useful commands in Unix or Linux operating system.
+perl one liner :
+It allows you to specify the Perl code to be executed right on the command line. ... The -i argument makes sure that file gets edited in-place, meaning Perl opens the file, executes the substitution for each line, prints the output to a temporary file, and then replaces the original file.
+ping :
+PING (Packet Internet Groper) command is used to check the network connectivity between host and server/host.
+It allows you to specify the Perl code to be executed right on the command line. ... The -i argument makes sure that file gets edited in-place, meaning Perl opens the file, executes the substitution for each line, prints the output to a temporary file, and then replaces the original file.
+pkill :
+the pgrep command searches for processes currently running on the system, based on a complete or partial process name, or other specified attributes. The pkill command sends a signal to one or more processes, using the same flexible selection methods as pgrep.
+ps :
+As we all know Linux is a multitasking and multi-user systems. So, it allows multiple processes to operate simultaneously without interfering with each other
+pwd :
+pwd stands for Print Working Directory. It prints the path of the working directory, starting from the root.
+reboot :
+reboot command is used restart or reboot the system. In a Linux system administration, there comes a need to restart the server after the completion of some network and other major updates.
+poweroff :
+The shutdown command in Linux is used to shutdown the system in a safe way. You can shutdown the machine immediately, or schedule a shutdown using 24 hour format
+rm :
+rm stands for remove here. rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX. 
+rpm:
+RPM command is used for installing, uninstalling, upgrading, querying, listing, and checking RPM packages on your Linux system
+rsync :
+rsync or remote synchronization is a software utility for Unix-Like systems that efficiently sync files and directories between two hosts or machines
+scp :
+scp (secure copy) command in Linux system is used to copy file(s) between servers in a secure way
+screen :
+screen command in Linux provides the ability to launch and use multiple shell sessions from a single ssh session
+sed :
+SED command in UNIX is stands for stream editor and it can perform lot’s of function on file like, searching, find and replace, insertion or deletion
+sort :
+SORT command is used to sort a file, arranging the records in a particular order. By default, the sort command sorts file assuming the contents are ASCII.
+ss :
+The ss command is a tool used to dump socket statistics and displays information in similar fashion (although simpler and faster) to netstat. 
+ssh :
+ssh stands for “Secure Shell”. It is a protocol used to securely connect to a remote server/system.
+sysctl :
+sysctl is used to modify kernel parameters at runtime. The parameters available are those listed under /proc/sys/
+tail :
+It is the complementary of head command.The tail command, as the name implies, print the last N number of data of the given input
+tar :
+The Linux ‘tar’ stands for tape archive, is used to create Archive and extract the Archive files. tar command in Linux is one of the important command which provides archiving functionality in Linux.
+tcpdump :
+tcpdump is a most powerful and widely used command-line packets sniffer or package analyzer tool which is used to capture or filter TCP/IP packets that received or transferred over a network on a specific interface.
+top :
+top command is used to show the Linux processes. It provides a dynamic real-time view of the running system
+touch :
+The touch command is a standard command used in UNIX/Linux operating system which is used to create, change and modify timestamps of a file
+tr :
+The tr command in UNIX is a command line utility for translating or deleting characters. It supports a range of transformations including uppercase to lowercase, squeezing repeating characters, deleting specific characters and basic find and replace.
+traceroute :
+traceroute command in Linux prints the route that a packet takes to reach the host. This command is useful when you want to know about the route and about all the hops that a packet takes.
+umask :
+ The umask utility allows you to view or to set the file mode creation mask, which determines the permissions bits for newly created files or directories
+uname :
+The command ‘uname‘ displays the information about the system
+uniq :
+ uniq is the tool that helps to detect the adjacent duplicate lines and also deletes the duplicate lines.
+uptime :
+This command returns set of values that involve, the current time, and the amount of time system is in running state, number of users currently logged into, and the load time for the past 1, 5 and 15 minutes respectively.
+useradd:
+To add/create a new user, all you’ve to follow the command ‘useradd‘ or ‘adduser‘ with ‘username’. The ‘username’ is a user login name, that is used by user to login into the system.
+vi :
+The default editor that comes with the UNIX operating system is called vi (visual editor). Using vi editor, we can edit an existing file or create a new file from scratch
+vmstat :
+vmstat command in Linux/Unix is a performance monitoring command of the system as it gives the information about processes, memory, paging, block IO, disk and CPU scheduling
+w:
+w is a command-line utility that displays information about currently logged in users and what each user is doing.
+who :
+The Linux "who" command lets you display the users that are currently logged into your Unix computer system
+watch :
+watch command in Linux is used to execute a program periodically, showing output in fullscreen. This command will run the specified command in the argument repeatedly by showing its output and errors
+wc :
+wc stands for word count. As the name implies, it is mainly used for counting purpose. It is used to find out number of lines, word count, byte and characters count in the files specified in the file arguments.
+wget :
+Wget command is a Linux command line utility that helps us to download the files from the web. We can download the files from web servers using HTTP, HTTPS and FTP protocols.
+ypcat :
+The Linux command ypcat prints the values of all keys from the NIS database specified by mapname, which may be a map name or a map nickname
+yppasswd:
+ This server allows users to change their password on a NIS server from a NIS client.
+yum:
+Yum is an automatic updater and package installer/remover for rpm systems. It automatically computes dependencies and figures out what things should occur to install packages. 
+zip :
+zip is a command-line utility that helps you create Zip archives. To create a Zip archive in a specific directory the user needs to have write permissions on that directory
+sar :
+SAR stands for System Activity Report, as its name suggest sar command is used to collect,report & save CPU, Memory, I/O usage in Unix like operating system
